@@ -1,0 +1,18 @@
+# Local artifacts and private configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+target/
+bin/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
